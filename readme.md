@@ -24,9 +24,6 @@ Nach dem Installieren siehst du auf der r/place Leinwand kleinere "Pixel" innerh
 
 # FAQ
 
-## Wieso ist die Flagge nicht im Overlay?
-Die Flagge ist relativ simpel und klar abgegrenzt. Somit kann jeder - auch Leute ohne Overlay - die Flagge reparieren. Wir nutzen die verfügbaren Pixel der Leute, die das Overlay installiert haben lieber um die komplizierteren Artworks zu schützen, die man nicht so einfach ohne irgendwelche Anweisungen wie z.B. das Overlay reparieren kann.
-
 ## Wieso funktioniert das Overlay nicht?
 Falls das Overlay nicht funktioniert stelle bitte folgende Sachen sicher:
 - Lade die Seite einmal neu, eventuell wurde das Skript einfach nur nicht geladen.
@@ -40,9 +37,3 @@ Eventuell hast du noch die alte Overlay-Version, probiere einmal das Skript für
 
 ## Wie kann ich das Overlay auf dem Handy nutzen?
 Ne, leider ist das nicht möglich und wird auch in Zukunft nicht möglich sein.
-
-## Wieso ist der Pixel im Overlay falsch?
-Das liegt daran, dass die Vorlage einen Fehler enthält. Um das zu beheben muss sich ein Designer an die Vorlage setzen und sie reparieren.
-
-## Setzt das Overlay automatisch Pixel?
-Nein, das ist nicht der Zweck des Overlays. Das Overlay ist nur als Hilfe zum Pixeln gedacht. Es gibt aber schon einen Bot, wessen Anleitung [hier](https://place.army/) einsehbar ist.
