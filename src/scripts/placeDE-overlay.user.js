@@ -22,7 +22,7 @@ if (window.top !== window.self) {
 }
 
 function updateImage() {
-    overlayImage.src = "https://place.army/overlay_target.png?" + Date.now()
+    overlayImage.src = "https://cs3.wettercomassets.com/wcomv6/maps/de_cityoverlay.png" + Date.now()
 }
 
-setInterval(function () {overlayImage.src = "https://place.army/overlay_target.png?" + Date.now()}, 30000);
+setInterval(function () {overlayImage.src = "https://cs3.wettercomassets.com/wcomv6/maps/de_cityoverlay.png" + Date.now()}, 30000);
