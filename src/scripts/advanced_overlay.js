@@ -18,8 +18,8 @@ if (window.top !== window.self) {
     // ==============================================
     const STORAGE_KEY = 'place-germany-2023-ostate';
     const OVERLAYS = [
-      ["https://place.army/overlay_target.png", "Pixel"],
-      ["https://place.army/default_target.png", "Vollbild"]
+      ["https://cs3.wettercomassets.com/wcomv6/maps/de_cityoverlay.png", "Pixel"],
+      ["https://cs3.wettercomassets.com/wcomv6/maps/de_cityoverlay.png", "Vollbild"]
     ];
     const getConfig = (text) => {
         return text + "?" + Date.now()
